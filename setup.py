@@ -8,7 +8,7 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
+    name='Car Damage Detection',
     version='0.1.0',
     description='Car Damage Detection project is a machie learning project for detection of claim part in image.',
     long_description=readme,
