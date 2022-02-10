@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Learn more: https://github.com/kennethreitz/setup.py
-
 from setuptools import setup, find_packages
 
 
@@ -18,7 +14,7 @@ setup(
     long_description=readme,
     author='Kenneth Reitz',
     author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    url='https://github.com/mahparhizkar/car-damage-detection',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
